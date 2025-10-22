@@ -8,7 +8,7 @@
   </tbody>
 </table>
 
-## Curso de ingreso con Python - Argento Elián 111-2
+## Curso de ingreso con Python - Argento Elián 111-2 (Actualizado en consola)
 
 ### Ejercitación y Trabajos Pr&aacute;cticos para rendir el examen de ingreso.
 ## **Carrera: T&eacute;cnico superior en programación**
